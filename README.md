@@ -21,14 +21,12 @@ An example would be changing "examplegithubcodespacename-25565.app.github.dev" t
 
 ### Choosing different server eggs
 
-If you don't want a normal Vanilla Java server (or you want to add plugins designed for different server eggs), you can procure your own server.jar file. Place it in /server/ after deleting the original.
-
-Installing ViaVersion/Backwards/Rewind/RewindLegacySupport is recommended for best compatibility. You can find these on Spigot, which is why Paper is usually the best option. Make sure you install versions designed specifically for your server version, otherwise shit will hit the fan.
+If you don't want a normal Vanilla Java server (or you want to add plugins designed for different server eggs), you can procure your own server.jar file. Place it in /server/ after deleting the original. Installing ViaVersion/Backwards/Rewind/RewindLegacySupport is recommended for best compatibility. You can find these on Spigot, which is why Paper is usually the best option. Make sure you install versions designed specifically for your server version, otherwise shit will hit the fan.
 ----------
 
-The only goal of this repo is to give users an example of a Minecraft server, or something similar. I'm not providing support for this repo, and the repository will **not** be updated.
+### The only goal of this repo is to give users an example of a Minecraft server, or something similar. I'm not providing support for this repo, and the repository will **not** be updated.
 
-The DMCA-infringing client which was present in the original repo has been removed to prevent it from disappearing off the face of the earth. If you're really hard-pressed to play Minecraft without paying, womp womp. Go buy it. At the time of writing it is only around $30.
+### The DMCA-infringing client which was present in the original repo has been removed to prevent it from disappearing off the face of the earth. If you're really hard-pressed to play Minecraft without paying, womp womp. Go buy it. At the time of writing it is only around $30.
 ----------
 
 ## VERY IMPORTANT
