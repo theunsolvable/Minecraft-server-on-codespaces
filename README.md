@@ -6,6 +6,8 @@ Guide was not proofread. No beta; we die like Eagler 1.5.2.
 Removed the client.
 If you're looking for the original repo, google it. It's pretty easy to find because there are a million forks out there.
 
+If you want to add Bedrock support, go install GeyserMC and Floodgate.
+
 SUPPORT WILL NOT BE PROVIDED FOR YOUR SERVER. THIS IS MEANT AS A TEMPORARY SOLUTION TO HOSTING, AS GITHUB WILL MOST LIKELY DOWN YOUR CODESPACE LATER ON.
 ------------
 ### Instructions:
