@@ -18,15 +18,20 @@ Your server can be accessed on Java Edition by simply connecting to the forwarde
 An example would be changing "examplegithubcodespacename-25565.app.github.dev" to "wss://examplegithubcodespacename-25565.app.github.dev"
 
 ### Choosing different server eggs
+
 If you don't want a normal Vanilla Java server (or you want to add plugins designed for different server eggs), you can procure your own server.jar file. Place it in /server/ after deleting the original.
+
 Installing ViaVersion/Backwards/Rewind/RewindLegacySupport is recommended for best compatibility. You can find these on Spigot, which is why Paper is usually the best option. Make sure you install versions designed specifically for your server version, otherwise shit will hit the fan.
 ----------
+
 The only goal of this repo is to give users an example of a Minecraft server, or something similar. I'm not providing support for this repo, and the repository will **not** be updated.
+
 The DMCA-infringing client which was present in the original repo has been removed to prevent it from disappearing off the face of the earth. If you're really hard-pressed to play Minecraft without paying, womp womp. Go buy it. At the time of writing it is only around $30.
 ----------
 
 ## VERY IMPORTANT
 ### Updating EaglerxBungee:
+
 If you're adding Eaglercraft support, then you will need to update EaglercraftXBungee, which is in /bungee/plugins/. You can usually find a version of this file in any Eaglercraft client, in the Multiplayer menu in the top-right as of u40.
 ----------
 
